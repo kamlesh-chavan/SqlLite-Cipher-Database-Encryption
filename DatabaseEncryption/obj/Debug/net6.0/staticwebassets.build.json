@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oPOdx9wKTRPYL0tmUFeQCk4wNcIjUEd7RufpvGcr+Dc=",
+  "Source": "DatabaseEncryption",
+  "BasePath": "_content/DatabaseEncryption",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
